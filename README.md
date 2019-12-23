@@ -2,10 +2,5 @@
 # my first repository
 '# ' is used to create bold line
 
-this change is just for commit changes description.
-
-with capital u in update readme.md
-
-probably capital u is not required
-
-just writing filename in first box in commit changes is ok but file name is case sensitive.(don't know about spaces)
+you can just write filename in first box in commit changes i.e. without file name but you should remember that file name is case sensetive
+(don't know about spaces).
