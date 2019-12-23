@@ -3,4 +3,8 @@
 '# ' is used to create bold line
 this change is just for commit changes description.
 
-with captil u in update readme.md
+with capital u in update readme.md
+
+probably capital u is not required
+
+
